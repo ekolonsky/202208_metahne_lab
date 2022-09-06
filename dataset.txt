@@ -1,4 +1,4 @@
-Num	Source	Distance	LR	ppmm	LR_target
+Num	Source	Distance	LR_raw	ppmm_raw	LR
 1	Valve	15	0	32	0
 1	Valve	15	0	23	0
 1	Valve	15	0	68	0
